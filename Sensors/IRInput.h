@@ -7,7 +7,7 @@ class IRInput
 
 public:
 // Codes
-#pragma region Buttin codes
+#pragma region Button codes
     // Button codes
     static const int but0 = 0x000019;
     static const int but1 = 0x000045;
